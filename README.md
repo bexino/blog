@@ -1,2 +1,1 @@
-# blog
-Personal blogs
+https://github.com/bexino/blog/
